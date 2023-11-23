@@ -1,4 +1,4 @@
-# example_class
+# Weather App
 
 A new Flutter project.
 
